@@ -1,0 +1,4 @@
+Micro-architecture #, index, shift step, scale factor, latency(ms), energy(mJ), accuracy, target clock cycle(ns), area(ALUT), DSE index
+2,-1,1,1.3,146.82372,6.548443771902121,1,20,33449,78
+13,-1,1,1.3,103.32046,11.37647657461992,1,10,35434,222
+22,-1,1,1.3,80.29299,20.44053750525228,1,5,35977,341
